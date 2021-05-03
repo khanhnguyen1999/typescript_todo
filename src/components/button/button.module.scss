@@ -1,0 +1,23 @@
+.button_red {
+  background-color: #e17055;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px 20px;
+  &:hover {
+    cursor: pointer;
+  }
+}
+.button_blue {
+  background-color: #b2bec3;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px 20px;
+  &:hover {
+    cursor: pointer;
+  }
+}
+// .button {
+//   border: 1px solid black;
+//   border-radius: 5px;
+//   padding: 5px 20px;
+// }
